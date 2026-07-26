@@ -7,7 +7,7 @@
 # are merged into that generated config at build time. Deploy with
 # `npx wrangler deploy`, or connect the repo in the Cloudflare dashboard.
 
-name = "astro-rocket"
+name = "astrorock87"
 compatibility_date = "2026-01-31"
 
 # Astro's Workers runtime shim (and some dependencies) use Node built-ins, so
